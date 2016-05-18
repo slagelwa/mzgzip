@@ -13,5 +13,4 @@ MZGF adds one additional twist to the BGZF approach -- the block index itself is
 
 ## Notes
 
-The BGZF library was originally implemented by Bob Handsaker and modified by Heng Li for remote file access and in-memory caching.  The mzgzip utility was modeled off of code from both this library and the example code for using the gzil
-library.
+The BGZF library was originally implemented by Bob Handsaker and modified by Heng Li for remote file access and in-memory caching.  The mzgzip utility was modeled off of code from both this library and the example code for using the gzib library.
